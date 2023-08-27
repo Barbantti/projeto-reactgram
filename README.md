@@ -16,6 +16,17 @@ Este projeto, intitulado ReactGram, foi desenvolvido por Leonardo Barbanti como 
 
 - **JavaScript**: Além das bibliotecas e frameworks mencionados, JavaScript puro também foi empregado para implementar lógica personalizada, tanto no frontend quanto no backend.
 
+## Inicialização do backend:
+
+abrir terminal dentro da pasta backend/
+npm install 
+npm run server
+
+## Inicialização do frontend:
+
+abrir terminal dentro da pasta frontend/
+npm install 
+npm run dev
 ## Sobre o Projeto:
 
 O projeto ReactGram foi desenvolvido como uma oportunidade para aprimorar as habilidades em React, frontend e backend, além de explorar a integração com um banco de dados NoSQL. O objetivo principal era criar um aplicativo interativo que demonstrasse o conhecimento adquirido durante o processo de aprendizado.
